@@ -1,7 +1,7 @@
 -- ts file was generated at discord.gg/25ms
 
 
-local vu1 = loadstring(game:HttpGet("https://raw.githubusercontent.com/Unknownkellymc1/Orion/main/source"))()
+local vu1 = loadstring(game:HttpGet("https://raw.githubusercontent.com/SilencedHub/Azpazidehub/refs/heads/main/oempaloempa.lua"))()
 local v2 = vu1
 local v3 = vu1.MakeWindow(v2, {
     ["Name"] = "Apazide Hub",
